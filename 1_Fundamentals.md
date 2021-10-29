@@ -86,7 +86,8 @@ We choose to create a topic with 10 partition(arbitary number)
 1. Consuder read data in consumer groups
 2. Each consumer within a group reads from exclusive paritions 
 3. If you have more consumers than partitions, some consumers will be inactive 
-__NOTE__: Cosumers will automatically use a group coordinator and a consumer Coordinator to assign a consumers to a partition 
+> __NOTE__: Cosumers will automatically use a group coordinator and a consumer Coordinator to assign a consumers to a partition 
+
 ![kakfa8](./.idea/kafka8.png)
 
 4. If you have **more consumers than partitions**, some consumers will be inactive(you would want this if you think some consumer may fail so you want a backup consumer ready).

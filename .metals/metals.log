@@ -1,0 +1,26 @@
+[0m2021.10.29 11:59:41 INFO  Started: Metals version 0.10.8 in workspace 'F:\dev\sc\bknd\doc\ApacheKafka' for client Visual Studio Code 1.61.2.[0m
+[0m2021.10.29 11:59:43 INFO  time: initialize in 1.43s[0m
+[0m2021.10.29 11:59:43 WARN  Build server is not auto-connectable.[0m
+[0m2021.10.29 11:59:43 WARN  no build tool detected in workspace 'F:\dev\sc\bknd\doc\ApacheKafka'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+Oct 29, 2021 4:45:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 29, 2021 4:50:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+[0m2021.10.29 22:34:52 INFO  shutting down Metals[0m
+[0m2021.10.29 22:38:33 INFO  Started: Metals version 0.10.8 in workspace 'F:\dev\sc\bknd\doc\ApacheKafka' for client Visual Studio Code 1.61.2.[0m
+[0m2021.10.29 22:38:34 INFO  time: initialize in 0.76s[0m
+[0m2021.10.29 22:38:34 WARN  Build server is not auto-connectable.[0m
+[0m2021.10.29 22:38:34 WARN  no build tool detected in workspace 'F:\dev\sc\bknd\doc\ApacheKafka'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.10.29 22:46:36 INFO  shutting down Metals[0m
+[0m2021.10.29 22:57:27 INFO  Started: Metals version 0.10.8 in workspace 'F:\dev\sc\bknd\doc\ApacheKafka' for client Visual Studio Code 1.61.2.[0m
+[0m2021.10.29 22:57:28 INFO  time: initialize in 0.38s[0m
+[0m2021.10.29 22:57:28 WARN  Build server is not auto-connectable.[0m
+[0m2021.10.29 22:57:28 WARN  no build tool detected in workspace 'F:\dev\sc\bknd\doc\ApacheKafka'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.10.29 23:25:53 INFO  Started: Metals version 0.10.8 in workspace 'F:\dev\sc\bknd\doc\ApacheKafka' for client Visual Studio Code 1.61.2.[0m
+[0m2021.10.29 23:25:54 INFO  time: initialize in 0.81s[0m
+[0m2021.10.29 23:25:58 WARN  Build server is not auto-connectable.[0m
+[0m2021.10.29 23:25:58 WARN  no build tool detected in workspace 'F:\dev\sc\bknd\doc\ApacheKafka'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.10.29 23:43:23 INFO  Started: Metals version 0.10.8 in workspace 'F:\dev\sc\bknd\doc\ApacheKafka' for client Visual Studio Code 1.61.2.[0m
+[0m2021.10.29 23:43:23 INFO  time: initialize in 0.5s[0m
+[0m2021.10.29 23:43:28 WARN  Build server is not auto-connectable.[0m
+[0m2021.10.29 23:43:28 WARN  no build tool detected in workspace 'F:\dev\sc\bknd\doc\ApacheKafka'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
