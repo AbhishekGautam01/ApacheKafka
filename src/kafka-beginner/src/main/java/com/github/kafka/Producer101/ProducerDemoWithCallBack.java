@@ -37,7 +37,7 @@ public class ProducerDemoWithCallBack {
                 if(e !=null){
                     logger.info("Received new metadata \n" + "Topic:" + recordMetadata.topic() + "\n" +
                                     "Partition:" + recordMetadata.partition() + "\n" +
-                                    "Offset:" + recordMetadata.offset() + "\n"
+                                    "Offset:" + recordMetadata.offset() + "\n" +
                                     "Timestamp:" + recordMetadata.timestamp() + "\n");
                 } else {
                     logger.log(Level.ALL, "Error while producing", e);
